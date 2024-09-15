@@ -12,7 +12,7 @@ Este projeto Kotlin é um aplicativo Android desenvolvido com o objetivo de forn
 - **Oracle Database**: Banco de dados utilizado no backend para armazenar informações.
 - **ConstraintLayout**: Layout usado para criar interfaces responsivas e flexíveis.
 - **GSON**: Biblioteca para conversão entre objetos Java/Kotlin e JSON.
-- **[ExpressJs]("https://github.com/leoleoyuuki/expressSprint3Plussoft.git")**: Backend para receber e enviar informações para o OracleDb
+- **ExpressJs**: Backend para receber e enviar informações para o OracleDb, [repositório do ExpressJs](https://github.com/leoleoyuuki/expressSprint3Plussoft)
 
 ## Funcionalidades
 
