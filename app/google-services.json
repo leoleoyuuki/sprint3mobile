@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382923042835",
+    "project_id": "kotlin-aula",
+    "storage_bucket": "kotlin-aula.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382923042835:android:ed7be4c55baebce45c0fe6",
+        "android_client_info": {
+          "package_name": "com.example.sprint3mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvN4ewCz0Fufuzfh2OXtcC9KyznSE-xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382923042835:android:09d45673da8010db5c0fe6",
+        "android_client_info": {
+          "package_name": "com.leoyuuki.aulafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvN4ewCz0Fufuzfh2OXtcC9KyznSE-xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
